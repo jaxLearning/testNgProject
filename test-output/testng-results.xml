@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1"
+	passed="1">
+	<reporter-output>
+	</reporter-output>
+	<suite name="Suite1" duration-ms="6584" started-at="2017-03-15T02:52:15Z"
+		finished-at="2017-03-15T02:52:22Z">
+		<groups>
+		</groups>
+		<test name="test1" duration-ms="6584" started-at="2017-03-15T02:52:15Z"
+			finished-at="2017-03-15T02:52:22Z">
+			<class name="com.mallik.classes.LoginTest">
+				<test-method status="PASS"
+					signature="beforeTest()[pri:0, instance:com.mallik.classes.LoginTest@76b0bfab]"
+					name="beforeTest" is-config="true" duration-ms="3036"
+					started-at="2017-03-14T22:52:15Z" finished-at="2017-03-14T22:52:18Z">
+					<reporter-output>
+					</reporter-output>
+				</test-method> <!-- beforeTest -->
+				<test-method status="PASS"
+					signature="mainTest()[pri:0, instance:com.mallik.classes.LoginTest@76b0bfab]"
+					name="mainTest" duration-ms="68" started-at="2017-03-14T22:52:18Z"
+					finished-at="2017-03-14T22:52:18Z">
+					<reporter-output>
+					</reporter-output>
+				</test-method> <!-- mainTest -->
+				<test-method status="PASS"
+					signature="afterTest()[pri:0, instance:com.mallik.classes.LoginTest@76b0bfab]"
+					name="afterTest" is-config="true" duration-ms="3459"
+					started-at="2017-03-14T22:52:18Z" finished-at="2017-03-14T22:52:22Z">
+					<reporter-output>
+					</reporter-output>
+				</test-method> <!-- afterTest -->
+			</class> <!-- com.mallik.classes.LoginTest -->
+		</test> <!-- test1 -->
+	</suite> <!-- Suite1 -->
+</testng-results>
